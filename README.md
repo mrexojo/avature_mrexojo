@@ -5,7 +5,7 @@
 ![pip3 Version](https://img.shields.io/badge/pip3->=22.2.1-informational?style=flat-square&logo=python)
 ![Terraform Version](https://img.shields.io/badge/LocalStack->=1.0.3-9cf?style=flat-square&logo=portainer)
 
-## > [mrexojo exercise](./terraform/README.md)
+## > [mrexojo exercise](./terraform/)
   
 ## Prerequisites
 
